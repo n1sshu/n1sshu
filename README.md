@@ -47,7 +47,7 @@ namespace AboutMe
 
 </p>
 
-<h2 align="center">Tools That I Use()</h2>
+<h2 align="center">Tools That I Use( )</h2>
 
 <p align="center">
   <a href="https://code.visualstudio.com">
