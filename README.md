@@ -25,8 +25,7 @@ namespace AboutMe
             string currentlyLearning = "javascript i think";
             string knownLang = "c#,html,css";  //not a pro at this things :-}
             string hobbies = "Music and Reading Books ofc";
-
-
+            
         }
     }
 }
@@ -48,7 +47,7 @@ namespace AboutMe
 
 </p>
 
-<h2 align="center">Tools That I Use</h2>
+<h2 align="center">Tools That I Use()</h2>
 
 <p align="center">
   <a href="https://code.visualstudio.com">
