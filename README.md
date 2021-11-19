@@ -1,6 +1,6 @@
-# < Rayan Kumaranga >
+# < \Rayan Kumaranga >
 
-<h2 align="center">*Intresting Stuff About Me👽*</h2>
+<h2 align="center">**Intresting Stuff About Me👽**</h2>
 
 ```csharp
 
@@ -35,7 +35,7 @@ namespace AboutMe
 
 <h2 align="center">< You Can Reach Me At👋 ></h2>
 
-<p align="center">>
+<p align="center">
 
   <a href="mailto:rayankumaranga03@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="My Gmail Address" height="30" width="30">
@@ -63,4 +63,4 @@ namespace AboutMe
 
 </p>
 
-⭐️Yay! Thats It [@ImRayan](https://github.com/ImRayan)
+⭐️Yay! You Gone Through My Profile, Thanks Again😊
