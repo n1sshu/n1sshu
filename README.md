@@ -25,6 +25,7 @@ namespace AboutMe
             string currentlyLearning = "javascript i think";
             string knownLang = "c#,html,css";  //not a pro at this things :-}
             string hobbies = "Music and Reading Books ofc";
+            string ign = "MrBoom461" //my ingamename most of the time :]
             
         }
     }
@@ -49,19 +50,6 @@ namespace AboutMe
 
 </p>
 
-<h2 align="center">Tools That I Use( )</h2>
 
-<p align="center">
-  <a href="https://code.visualstudio.com">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"
-     alt="VsCode" height="30" width="30">
-  </a>
 
-<a href="https://visualstudio.microsoft.com/">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"
-     alt="VisualStudio" height="30" width="30">
-  </a>
-
-</p>
-
-⭐️Yay! You Gone Through My Profile, Thanks Again😊
+⭐️Yay! You Gone Through My Profile, Thanks😊
