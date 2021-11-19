@@ -56,7 +56,7 @@ namespace AboutMe
   </a>
 
 <a href="https://visualstudio.microsoft.com/">
-    <img src="https://cdn.worldvectorlogo.com/logos/sirio.svg"
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"
      alt="VisualStudio" height="30" width="30">
   </a>
 
