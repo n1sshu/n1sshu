@@ -16,7 +16,7 @@ namespace AboutMe
         {
             //my personal info
             string name = "Rayan Kumaranga";
-            int age = 14;
+            int age = 15;
             string location = "Sri Lanka";
             string position = "Junior Student";
 
@@ -53,4 +53,4 @@ namespace AboutMe
 
 
 
-⭐️Yay! You Gone Through My Profile, Thanks😊
+⭐️Yay! You Gone Through My Profile, Thanks!
