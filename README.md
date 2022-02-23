@@ -1,8 +1,8 @@
-```zsh
+```bash
 > $sudo github.exe
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/ImRayan" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://avatars.githubusercontent.com/ImRayan" alt="Avatar" width="300" /> 
 
 ```csharp
 rayankumaranga@github.com
