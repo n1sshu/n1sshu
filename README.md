@@ -20,7 +20,7 @@ Hobbies: Gaming, Coding, Playing Guitar
 Discord: MrBoom#6969
 ```
 
-
+</br>
 
 
 
