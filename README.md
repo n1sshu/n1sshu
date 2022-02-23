@@ -1,56 +1,33 @@
-# < \Rayan Kumaranga >
-
-<h2 align="center">**Intresting Stuff About Me👽**</h2>
-
-```csharp
-
-using Github;
-using Github.Profile.Customize;
-using Github.Readme;
-
-namespace AboutMe
-{
-    public class Info
-    {
-        public static void Main(string[] args)
-        {
-            //my personal info
-            string name = "Rayan Kumaranga";
-            int age = 15;
-            string location = "Sri Lanka";
-            string position = "Junior Student";
-
-            //more deep things about me
-            string intrest = "I Want To Become a Software Developer";
-            string currentlyLearning = "javascript i think";
-            string knownLang = "c#,html,css";  //not a pro at this things :-}
-            string hobbies = "Music and Reading Books ofc";
-            string ign = "MrBoom461" //my ingamename most of the time :]
-            
-        }
-    }
-}
-
+```zsh
+> $sudo github.exe
 ```
 
-<h3 align="center">< Question: Who Is The Son Of The JS? ></br> < Answer: JSON ></h3>
-    
+<img align="left" src="https://avatars.githubusercontent.com/ImRayan" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
-<h2 align="center">< You Can Reach Me At👋 ></h2>
+```csharp
+rayankumaranga@github.com
+-------------------------
+Pronouns: He/Him
 
-<p align="center">
+Location: Aluthgama, SL
 
-  <a href="mailto:rayankumaranga03@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="My Gmail Address" height="30" width="30">
-  </a>
-  
-  <a href="https://discordapp.com/users/891356965064806411/">
-    <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"
-     alt="My Discord Profile" height="30" width="30">
-  </a>
+Languages: JavaScript, C#, HTML, CSS
 
-</p>
+Learning: PHP, GSC
 
+Hobbies: Gaming, Coding, Playing Guitar
 
+Discord: MrBoom#6969
+```
 
-⭐️Yay! You Gone Through My Profile, Thanks!
+<br/>
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/cx3x6v3758r9fo73oam3u107l)
+<br/>
+
+### Contact Me 💌
+
+<img width="32px" alt="Discord" title="Discord" src="https://camo.githubusercontent.com/adaa004187d9d68b49031463d39c5e47f1cf77d221b46785b858c8e55d84596c/68747470733a2f2f692e696d6775722e636f6d2f4f56695a4f384a2e706e67" data-canonical-src="https://i.imgur.com/OViZO8J.png" style="max-width: 100%;">
+
