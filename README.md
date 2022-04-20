@@ -17,13 +17,15 @@ Learning: PHP, GSC
 
 Hobbies: Gaming, Coding, Playing Guitar
 
-Discord: MrBoom#6969
+Discord: Nish#6276
+
 ```
 
+</br>
 </br>
 
 
 
-### Contact Me On [Discord💌.](https://discordapp.com/users/891356965064806411/)
+### Contact Me On [Discord]💌.(https://discordapp.com/users/891356965064806411/)
 
 
