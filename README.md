@@ -5,7 +5,7 @@
 <img align="left" src="https://avatars.githubusercontent.com/N1sh-xD" alt="Avatar" width="300" /> 
 
 ```csharp
-rayankumaranga@github.com
+nish_xD@github.com
 -------------------------
 Pronouns: He/Him
 
@@ -13,11 +13,9 @@ Location: Aluthgama, SL
 
 Languages: JavaScript, C#, HTML, CSS
 
-Learning: PHP, GSC
-
 Hobbies: Gaming, Coding, Playing Guitar
 
-Discord: Nish#6276
+Discord: MrBoom#6276
 
 ```
 
