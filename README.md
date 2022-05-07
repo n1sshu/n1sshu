@@ -2,10 +2,10 @@
 > $sudo github.exe
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/N1sh-xD" alt="Avatar" width="300" /> 
+<img align="left" src="https://avatars.githubusercontent.com/MrBoom461" alt="Avatar" width="300" /> 
 
 ```csharp
-nish_xD@github.com
+MrBoom461@github.com
 -------------------------
 Pronouns: He/Him
 
@@ -18,14 +18,5 @@ Hobbies: Gaming, Coding, Playing Guitar
 Discord: MrBoom#6276
 
 ```
-
-</br>
-</br>
-</br>
-</br>
-
-
-
-### Contact Me On [Discord](https://discordapp.com/users/891356965064806411/)💌.
 
 
