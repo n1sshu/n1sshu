@@ -7,17 +7,17 @@
 ```csharp
 rayanomk@github.com
 -------------------------
-Pronouns 🧑 : He/Him
+Pronouns 🧑: He/Him
 
-Location 📍  : Aluthgama, SL
+Location 📍: Aluthgama, SL
 
 Languages 🔮: JavaScript, HTML, CSS
 
-Learning 🏫 : React
+Learning 🏫: React
 
-Hobbies 🎟   : Gaming, Coding, Playing Guitar
+Hobbies 🎟: Gaming, Coding, Playing Guitar
 
-Discord 💬   : MrBoom#6276
+Discord 💬: MrBoom#6276
 
 ```
 
