@@ -2,7 +2,7 @@
 > $sudo github.exe
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/MrBoom461" alt="Avatar" width="300" /> 
+<img align="left" src="https://avatars.githubusercontent.com/u/94668516?v=4" alt="Avatar" width="300" /> 
 
 ```csharp
 rayanomk@github.com
