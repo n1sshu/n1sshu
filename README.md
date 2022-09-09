@@ -5,17 +5,19 @@
 <img align="left" src="https://avatars.githubusercontent.com/MrBoom461" alt="Avatar" width="300" /> 
 
 ```csharp
-MrBoom461@github.com
+rayanomk@github.com
 -------------------------
-Pronouns: He/Him
+Pronouns 🧑 : He/Him
 
-Location: Aluthgama, SL
+Location 📍  : Aluthgama, SL
 
-Languages: JavaScript, C#, HTML, CSS
+Languages 🔮: JavaScript, HTML, CSS
 
-Hobbies: Gaming, Coding, Playing Guitar
+Learning 🏫 : React
 
-Discord: MrBoom#6276
+Hobbies 🎟   : Gaming, Coding, Playing Guitar
+
+Discord 💬   : MrBoom#6276
 
 ```
 
