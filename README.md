@@ -2,7 +2,7 @@
 > $sudo github.com
 ```
 
-<img align="left" src="images/developer-icon.svg" width="200" /> 
+<img align="left" src="images/developer-icon.svg" width="250" /> 
 
 ```csharp
 rayanomk@github.com
