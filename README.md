@@ -1,7 +1,6 @@
-```cpp
+```bash
 > $sudo github.com
 ```
-
 <img align="left" src="images/developer-icon.svg" width="250" /> 
 
 ```csharp
@@ -19,5 +18,6 @@ Hobbies 🎟: Gaming, Coding, Playing Guitar
 
 Discord 💬: MrBoom#6276
 
+- Requiescat in Pace
 ```
 
