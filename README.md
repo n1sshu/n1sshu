@@ -1,4 +1,4 @@
-```bash
+```cpp
 > $sudo github.com
 ```
 
