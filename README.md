@@ -18,6 +18,5 @@ Hobbies 🎟: Gaming, Coding, Playing Guitar
 
 Discord 💬: MrBoom#6276
 
-- Requiescat in Pace
 ```
 
