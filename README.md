@@ -10,13 +10,13 @@ Pronouns 🧑: He/Him
 
 Location 📍: Aluthgama, SL
 
-Languages 🔮: JavaScript, HTML, CSS
+Languages 🔮: JavaScript, C#
 
 Learning 🏫: React
 
 Hobbies 🎟: Gaming, Coding, Playing Guitar
 
-Discord 💬: MrBoom#6276
+Discord 💬: Nisshu#6276
 
 ```
 
