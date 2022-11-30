@@ -1,10 +1,10 @@
 ```bash
 > $sudo github.com
 ```
-<img align="left" src="images/developer-icon.svg" width="250" /> 
+<img align="left" src="[images/developer-icon.svg](https://avatars.githubusercontent.com/u/94668516?v=4)" width="250" /> 
 
 ```csharp
-rayanomk@github.com
+nisshu@github.com
 -------------------------
 Pronouns 🧑: He/Him
 
