@@ -4,7 +4,7 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/94668516?v=4" width="250" /> 
 
 ```csharp
-nisshu@github.com
+n1sshu@github.com
 -------------------------
 Pronouns 🧑: He/Him
 
