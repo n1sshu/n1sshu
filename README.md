@@ -16,7 +16,7 @@ Learning 🏫: React
 
 Hobbies 🎟: Gaming, Coding, Playing Guitar
 
-Discord 💬: Nisshu#6276
+Discord 💬: n1sshu
 
 ```
 
